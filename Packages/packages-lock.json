@@ -1,14 +1,6 @@
 {
   "dependencies": {
     "com.unity.2d.animation": {
-<<<<<<< HEAD
-      "version": "7.1.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.2d.common": "6.0.7",
-        "com.unity.2d.sprite": "1.0.0",
-=======
       "version": "9.0.3",
       "depth": 1,
       "source": "registry",
@@ -16,18 +8,13 @@
         "com.unity.2d.common": "8.0.1",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.collections": "1.1.0",
->>>>>>> weizu/main
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.uielements": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.aseprite": {
-<<<<<<< HEAD
-      "version": "1.1.1",
-=======
       "version": "1.0.0",
->>>>>>> weizu/main
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -39,36 +26,18 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.common": {
-<<<<<<< HEAD
-      "version": "6.0.7",
-=======
       "version": "8.0.1",
->>>>>>> weizu/main
       "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.mathematics": "1.1.0",
         "com.unity.modules.uielements": "1.0.0",
-<<<<<<< HEAD
-        "com.unity.burst": "1.5.1"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.2d.path": {
-      "version": "5.0.2",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-=======
         "com.unity.modules.animation": "1.0.0",
         "com.unity.burst": "1.7.3"
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> weizu/main
     "com.unity.2d.pixel-perfect": {
       "version": "5.0.3",
       "depth": 1,
@@ -77,21 +46,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.psdimporter": {
-<<<<<<< HEAD
-      "version": "6.0.9",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.2d.animation": "7.1.0",
-        "com.unity.2d.common": "6.0.7",
-=======
       "version": "8.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.2d.animation": "9.0.1",
         "com.unity.2d.common": "8.0.1",
->>>>>>> weizu/main
         "com.unity.2d.sprite": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -103,21 +63,12 @@
       "dependencies": {}
     },
     "com.unity.2d.spriteshape": {
-<<<<<<< HEAD
-      "version": "7.0.7",
-=======
       "version": "9.0.2",
->>>>>>> weizu/main
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.1.0",
-<<<<<<< HEAD
-        "com.unity.2d.common": "6.0.6",
-        "com.unity.2d.path": "5.0.2",
-=======
         "com.unity.2d.common": "8.0.1",
->>>>>>> weizu/main
         "com.unity.modules.physics2d": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -126,12 +77,6 @@
       "version": "1.0.0",
       "depth": 1,
       "source": "builtin",
-<<<<<<< HEAD
-      "dependencies": {}
-    },
-    "com.unity.2d.tilemap.extras": {
-      "version": "2.2.7",
-=======
       "dependencies": {
         "com.unity.modules.tilemap": "1.0.0",
         "com.unity.modules.uielements": "1.0.0"
@@ -139,7 +84,6 @@
     },
     "com.unity.2d.tilemap.extras": {
       "version": "3.1.1",
->>>>>>> weizu/main
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -151,11 +95,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-<<<<<<< HEAD
-      "version": "1.8.11",
-=======
       "version": "1.8.7",
->>>>>>> weizu/main
       "depth": 3,
       "source": "registry",
       "dependencies": {
@@ -170,8 +110,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
     "com.unity.collections": {
       "version": "1.2.4",
       "depth": 2,
@@ -182,7 +120,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> weizu/main
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -195,16 +132,6 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-<<<<<<< HEAD
-        "com.unity.2d.animation": "7.1.0",
-        "com.unity.2d.pixel-perfect": "5.0.3",
-        "com.unity.2d.psdimporter": "6.0.9",
-        "com.unity.2d.sprite": "1.0.0",
-        "com.unity.2d.spriteshape": "7.0.7",
-        "com.unity.2d.tilemap": "1.0.0",
-        "com.unity.2d.tilemap.extras": "2.2.7",
-        "com.unity.2d.aseprite": "1.1.1"
-=======
         "com.unity.2d.animation": "9.0.3",
         "com.unity.2d.pixel-perfect": "5.0.3",
         "com.unity.2d.psdimporter": "8.0.2",
@@ -213,7 +140,6 @@
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.2d.tilemap.extras": "3.1.1",
         "com.unity.2d.aseprite": "1.0.0"
->>>>>>> weizu/main
       }
     },
     "com.unity.ide.rider": {
@@ -427,20 +353,6 @@
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
-<<<<<<< HEAD
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.modules.uielementsnative": "1.0.0"
-      }
-    },
-    "com.unity.modules.uielementsnative": {
-      "version": "1.0.0",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.modules.ui": "1.0.0",
-        "com.unity.modules.imgui": "1.0.0",
-=======
->>>>>>> weizu/main
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
