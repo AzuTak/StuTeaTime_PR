@@ -119,8 +119,21 @@ public class SaveData
     public int TotalMin;
     public int TotalHou;
 <<<<<<< HEAD
+<<<<<<< HEAD
     public List<string> NextFree;
 =======
     public List<string> OrderMenu = new List<string>();
 >>>>>>> weizu/main
+=======
+    public int TotalCount;
+    public List<string> OrderMenu = new List<string>();
+    public EventBool EventProgress;
+}
+[System.Serializable]
+public class EventBool
+{
+    public int Cat;
+    public int Master;
+    public int Bird;
+>>>>>>> 4a958d1bc2f5fa4da1ec89f628859b146c5ea620
 }
